@@ -1,6 +1,6 @@
 # uGMRT_Calibration_pipeline
 A  calibration, imaging  pipeline for uGMRT data
-The pipeline contains a direction independent calibration pipeline tool. 
+The pipeline folder contains a direction independent calibration pipeline tool. 
 This is mainly designed for direction-independent calibration of uGMRT data set. 
 I have tested this to Band 3 (250 - 500 MHz), Band 4 (550-850 MHz) and Band 5 (1050-1450 MHz) uGMRT data.
 
@@ -9,5 +9,7 @@ If everything works well you should expect a calibration output like these as gi
 
 If you use it and find any problem kindly let me know. 
 Any suggestions regarding improvements of the pipeline is welcome. 
+
+The direction-dependent calibration for uGMRT wide-band data is a ongoing work and not finished yet.
 
 Contact: arnab.phy.personal@gmail.com
