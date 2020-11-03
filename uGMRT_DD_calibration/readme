@@ -1,0 +1,6 @@
+The direction-dependent calibration is challenging for wide-bandwidth data set of uGMRT.
+I have tried for a single data set to peel the problematic sources with direction dependent calibration solution for wide band data.
+I will add the procedure here.
+However, this is not straight forward and may not apply to other data sets.
+Also, it is not tested for different bands data sets as of now. 
+This is a unfinished business and to be added soon. 
