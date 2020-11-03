@@ -1,1 +1,4 @@
 
+This is a diffuse halo around a galaxy. The data is from 300-500 MHz. The iamge is being done with wsclean and self-calibration is done in CASA. 
+
+I overplot the contour (5sigma) from 610 MHz and 1.42 GHz data of the same source. 
