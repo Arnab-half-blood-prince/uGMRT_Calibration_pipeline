@@ -8,4 +8,4 @@ Go to the folder and open GMRT_pipeline_work.py in a editor and change the path.
 Then you are good to go and run.
  Inside the folder there is a how_to_run txt file. Go through it and it contains all the informations. 
 
-
+The uGMRT_DI_calibration_pipeline folder contains all the py files. These are basically compressed in the tar file. 
